@@ -1,4 +1,1 @@
-boilerplate
-===========
-
-default bp
+npm install

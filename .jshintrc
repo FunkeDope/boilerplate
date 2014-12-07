@@ -1,0 +1,9 @@
+{
+	"camelcase": true,
+	"curly": true,
+	"eqeqeq": true,
+	"strict": true,
+	"browser": true,
+	"devel": true,
+	"jquery": true
+}
